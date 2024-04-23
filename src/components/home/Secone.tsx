@@ -183,7 +183,7 @@ export default function Secone() {
           <Container maxW='1750px'>
             <Box className='accept_payments_ph'>
               <Heading as={'h2'}>We accept payments</Heading>
-              <Text>Neque, pulvinar vestibulum non aliquam.</Text>
+              {/* <Text>Neque, pulvinar vestibulum non aliquam.</Text> */}
             </Box>
             <SimpleGrid columns={12} columnGap={2} rowGap={2}>
               <GridItem colSpan={[6, 6, 6, 3]}>
