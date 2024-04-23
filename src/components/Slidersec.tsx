@@ -51,7 +51,7 @@ function Slidersec() {
               <Box className="">
                 <Box className='faq_grid_box'>
                   <img src="img/faq_grid_ic_01.svg" alt="" />
-                  <Heading as={'h3'}>Is online betting activity with Gold Bet legal in India?</Heading>
+                  <Heading as={'h3'}>Is online betting activity with Goldsbet legal in India?</Heading>
                   <Text> Yes, we comply with Indian laws and hold an international gaming license. We are licensed and regulated by the Government of Curacao.</Text>
                 </Box>
                 <Box className='faq_grid_box'>
@@ -76,12 +76,12 @@ function Slidersec() {
             <div>
               <Box className='faq_grid_box'>
                 <img src="img/faq_grid_ic_03.svg" alt="" />
-                <Heading as={'h3'}>How do I register and start betting with Gold Bet?</Heading>
+                <Heading as={'h3'}>How do I register and start betting with Goldsbet?</Heading>
                 <Text> Click the "Register Now" button, fill in the information and complete the verification, and you can start betting, which can be completed within a minute.</Text>
               </Box>
               <Box className='faq_grid_box'>
                   <img src="img/faq_grid_ic_06.svg" alt="" />
-                  <Heading as={'h3'}>What types of bets does Gold Bet offer?</Heading>
+                  <Heading as={'h3'}>What types of bets does Goldsbet offer?</Heading>
                   <Text> We offer a range of thrilling and entertaining games, including live casino, chess, slot games, fishing, lotteries and sports betting.</Text>
                 </Box>
             </div>

@@ -14,13 +14,24 @@ export default function Secone() {
               <a href="#">
                 <img src="img/logo.svg" alt="" className='logo' />
               </a>
-              <Box className='head_btn_box'>
+              {/* <Box className='head_btn_box'>
                 <a href="#">
                   <img src="img/logo_mobo.svg" alt="" className='logo_mobo' />
                 </a>
                 <Button>Sign In <img src="img/sign_btn_ic.svg" alt="" className='sign_btn_ic' /></Button>
                 <Button>Sign Up<img src="img/sign_btn_ic_02.svg" alt="" className='sign_btn_ic' /></Button>
-              </Box>
+              </Box> */}
+              <Box className='head_btn_box'>
+    <a href="https://goldsbet.com/?id=86144446&currency=INR&type=2" className="btn-link">
+        <img src="img/logo_mobo.svg" alt="" className='logo_mobo' />
+    </a>
+    <a href="https://goldsbet.com/?id=86144446&currency=INR&type=2" className="btn-link">
+        <Button className="centered-btn">Sign In <img src="img/sign_btn_ic.svg" alt="" className='sign_btn_ic' /></Button>
+    </a>
+    <a href="https://goldsbet.com/?id=86144446&currency=INR&type=2" className="btn-link">
+        <Button className="centered-btn">Sign Up<img src="img/sign_btn_ic_02.svg" alt="" className='sign_btn_ic' /></Button>
+    </a>
+</Box>
             </Box>
             <Box className='sec_01_p_btn_img'>
               <Box className='sec_bg_box'>
@@ -42,7 +53,7 @@ export default function Secone() {
           <Container maxW='1750px'>
             <Box className='live_casino_p_btn'>
               <Text>LIVE CASINO</Text>
-              <a className='see_all_btn_ic d_non_see_allbtn'>See all Games <img src="img/see_all_btn_ic.svg" alt="" /></a>
+              <a href="https://goldsbet.com/?id=86144446&currency=INR&type=2" className='see_all_btn_ic d_non_see_allbtn'>See all Games <img src="img/see_all_btn_ic.svg" alt="" /></a>
             </Box>
             <Box>
               <SimpleGrid columns={12} columnGap={2} rowGap={2}>
@@ -107,7 +118,7 @@ export default function Secone() {
                   </Box>
                 </GridItem>
               </SimpleGrid>
-              <a className='see_all_btn_ic d_non_see_allbtn_v2_mobo'>See all Games <img src="img/see_all_btn_ic.svg" alt="" /></a>
+              <a href="https://goldsbet.com/?id=86144446&currency=INR&type=2" className='see_all_btn_ic d_non_see_allbtn_v2_mobo'>See all Games <img src="img/see_all_btn_ic.svg" alt="" /></a>
             </Box>
           </Container>
         </Box>
@@ -118,7 +129,7 @@ export default function Secone() {
             <Box className='top_game_conti'>
               <Box className='live_casino_p_btn'>
                 <Text>TOP GAMES</Text>
-                <a className='see_all_btn_ic d_non_see_allbtn'>See all Games <img src="img/see_all_btn_ic.svg" alt="" /></a>
+                <a href="https://goldsbet.com/?id=86144446&currency=INR&type=2" className='see_all_btn_ic d_non_see_allbtn'>See all Games <img src="img/see_all_btn_ic.svg" alt="" /></a>
               </Box>
 
               <SimpleGrid columns={12} columnGap={2} rowGap={2}>
@@ -163,7 +174,7 @@ export default function Secone() {
                   </Box>
                 </GridItem>
               </SimpleGrid>
-              <a className='see_all_btn_ic d_non_see_allbtn_v2_mobo'>See all Games <img src="img/see_all_btn_ic.svg" alt="" /></a>
+              <a href="https://goldsbet.com/?id=86144446&currency=INR&type=2" className='see_all_btn_ic d_non_see_allbtn_v2_mobo'>See all Games <img src="img/see_all_btn_ic.svg" alt="" /></a>
             </Box>
           </Container>
         </Box>
